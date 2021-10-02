@@ -1,1 +1,1 @@
- RA AND RegCM4 INDICES evaluation
+ RA and RegCM4 INDICES evaluation
