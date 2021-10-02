@@ -1,2 +1,1 @@
-# cor_EA
-cordex_EA_INDICES
+# RA AND RegCM4 INDICES evaluation
